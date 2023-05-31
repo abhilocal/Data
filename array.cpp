@@ -1,8 +1,6 @@
 #include<iostream>
 #include<unistd.h>
 using namespace std;
-//add commant for git hub
-//add comment for feature 1
 
 int main()
 {
